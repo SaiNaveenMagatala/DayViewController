@@ -1,0 +1,16 @@
+PODS:
+  - DayViewController (0.1.0)
+
+DEPENDENCIES:
+  - DayViewController (from `../`)
+
+EXTERNAL SOURCES:
+  DayViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DayViewController: 7004084301370740cdd0ea53f343ec95fc5b223b
+
+PODFILE CHECKSUM: 0430faaa4dd51e26f6bdad5de2e42becd377c462
+
+COCOAPODS: 1.5.0
